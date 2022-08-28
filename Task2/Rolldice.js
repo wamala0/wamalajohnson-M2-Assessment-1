@@ -9,7 +9,5 @@ function GameStart(){
         "Best Campus Cup Solution",
     ]
     let Categories = WinningCategories[Math.floor(Math.random() * WinningCategories.length)]
-
     console.log(Categories)
-
 }
